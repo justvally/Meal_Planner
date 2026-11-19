@@ -1,4 +1,4 @@
-enum Unit { g, ml, pcs }
+import 'unit.dart';
 
 class Ingredient {
   final String id;
